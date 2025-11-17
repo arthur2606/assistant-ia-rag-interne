@@ -3,7 +3,7 @@
 > **J’ai développé hier en 2h un chatbot IA à la Gare du Nord.**  
 > Ce repo contient la version propre de ce projet. 🎯
 
-## 🧩 Contexte
+##  Contexte
 
 L’objectif de ce projet est de construire un **assistant IA interne** capable de :
 
@@ -14,9 +14,7 @@ L’objectif de ce projet est de construire un **assistant IA interne** capable 
 
 C’est un cas d’usage typique des grands groupes qui cherchent à transformer leur documentation en copilote intelligent pour les équipes (RH, IT, support, etc.).
 
----
-
-## ⚙️ Stack technique
+##  Stack technique
 
 - **Python** (Google Colab)
 - **OpenAI API**
@@ -27,9 +25,8 @@ C’est un cas d’usage typique des grands groupes qui cherchent à transformer
 - **PyPDF / pypdf** : extraction de texte depuis les PDF
 - **Gradio** : interface chat type “assistant interne”
 
----
 
-## 🏗️ Architecture du système
+##  Architecture du système
 
 1. **Ingestion des documents**
    - Upload de fichiers `.pdf` ou `.txt`
@@ -55,9 +52,7 @@ C’est un cas d’usage typique des grands groupes qui cherchent à transformer
    - Historique des échanges
    - Affichage des sources utilisées
 
----
-
-## 🚀 Utilisation (version Colab)
+##  Utilisation (version Colab)
 
 1. Ouvrir le notebook :
 
