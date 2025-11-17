@@ -1,4 +1,4 @@
-# Assistant IA RAG interne – Projet 1
+# Assistant IA RAG interne – Projet 
 
 > **J’ai développé hier en 2h un chatbot IA à la Gare du Nord.**  
 > Ce repo contient la version propre de ce projet. 🎯
