@@ -1,0 +1,6 @@
+openai
+gradio
+numpy
+faiss-cpu
+langchain
+pypdf
